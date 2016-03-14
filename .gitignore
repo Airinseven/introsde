@@ -31,3 +31,4 @@ build/
 bin/
 *dist/
 dist/
+myworkspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
